@@ -1,0 +1,10 @@
+# Checked in a fresh Python 3.10 environment with torch 2.5.1, torchvision 0.20.1, numpy 2.2, pandas 2.3,
+# matplotlib 3.10, snntorch 1.0 and tonic 1.7.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.8
+torch>=2.0
+torchvision>=0.15     # MNIST
+snntorch>=0.7         # imported by MNIST/ and N_MNIST/ neuron_model.py
+tonic>=1.4            # N-MNIST
+jupyter
