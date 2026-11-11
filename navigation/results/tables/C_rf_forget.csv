@@ -1,0 +1,9 @@
+net_type,condition,runs,apples eaten (%),lost: no decision,lost: wrong side,lost: wall,direction error (°),input spikes / apple,ring spikes / apple,decision spikes / apple,counter spikes / apple,all spikes / apple eaten,all spikes / apple shown,apples / 10k spikes
+heterogeneous,RF + forget,10,94 ± 6,7,10,1,3.9,148.0,146.0,104.0,20.0,418.0,393.0,23.9
+all bistable,RF + forget,10,92 ± 7,10,11,3,4.4,152.0,162.0,40.0,28.0,381.0,351.0,26.2
+all bistable,no forget,10,9 ± 4,7,4,262,94.9,1547.0,1963.0,217.0,109.0,3837.0,345.0,2.6
+all bistable,no RF,10,44 ± 8,0,104,65,3.5,321.0,1049.0,97.0,46.0,1513.0,661.0,6.6
+all bistable,"no RF, no forget",10,7 ± 8,0,23,256,84.0,1996.0,4118.0,340.0,155.0,6609.0,463.0,1.5
+heterogeneous,no RF,10,79 ± 9,0,57,6,3.5,177.0,612.0,203.0,23.0,1015.0,802.0,9.9
+heterogeneous,no forget,10,18 ± 9,1,30,214,109.5,759.0,1109.0,574.0,112.0,2553.0,468.0,3.9
+heterogeneous,"no RF, no forget",10,12 ± 8,0,74,190,88.3,1163.0,3544.0,1812.0,205.0,6724.0,807.0,1.5

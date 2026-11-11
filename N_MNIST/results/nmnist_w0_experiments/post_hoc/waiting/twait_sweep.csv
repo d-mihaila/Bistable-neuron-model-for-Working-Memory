@@ -1,0 +1,61 @@
+run_name,label,t_wait,test_acc
+const_w0_+0.50,const_w0=+0.50,100,0.23828125
+const_w0_+0.50,const_w0=+0.50,200,0.12109375
+const_w0_+0.50,const_w0=+0.50,500,0.08046875
+const_w0_+0.50,const_w0=+0.50,1000,0.0578125
+const_w0_+0.50,const_w0=+0.50,2000,0.0890625
+const_w0_+0.50,const_w0=+0.50,5000,0.09921875
+const_w0_+1.00,const_w0=+1.00,100,0.83984375
+const_w0_+1.00,const_w0=+1.00,200,0.09609375
+const_w0_+1.00,const_w0=+1.00,500,0.05703125
+const_w0_+1.00,const_w0=+1.00,1000,0.084375
+const_w0_+1.00,const_w0=+1.00,2000,0.09140625
+const_w0_+1.00,const_w0=+1.00,5000,0.103125
+const_w0_+2.00,const_w0=+2.00,100,0.94765625
+const_w0_+2.00,const_w0=+2.00,200,0.63984375
+const_w0_+2.00,const_w0=+2.00,500,0.59921875
+const_w0_+2.00,const_w0=+2.00,1000,0.575
+const_w0_+2.00,const_w0=+2.00,2000,0.57265625
+const_w0_+2.00,const_w0=+2.00,5000,0.584375
+const_w0_-0.50,const_w0=-0.50,100,0.78046875
+const_w0_-0.50,const_w0=-0.50,200,0.79453125
+const_w0_-0.50,const_w0=-0.50,500,0.61171875
+const_w0_-0.50,const_w0=-0.50,1000,0.56796875
+const_w0_-0.50,const_w0=-0.50,2000,0.6859375
+const_w0_-0.50,const_w0=-0.50,5000,0.37890625
+const_w0_-1.00,const_w0=-1.00,100,0.9484375
+const_w0_-1.00,const_w0=-1.00,200,0.884375
+const_w0_-1.00,const_w0=-1.00,500,0.59375
+const_w0_-1.00,const_w0=-1.00,1000,0.36953125
+const_w0_-1.00,const_w0=-1.00,2000,0.2765625
+const_w0_-1.00,const_w0=-1.00,5000,0.22265625
+const_w0_-2.00,const_w0=-2.00,100,0.95
+const_w0_-2.00,const_w0=-2.00,200,0.71953125
+const_w0_-2.00,const_w0=-2.00,500,0.51640625
+const_w0_-2.00,const_w0=-2.00,1000,0.49921875
+const_w0_-2.00,const_w0=-2.00,2000,0.51015625
+const_w0_-2.00,const_w0=-2.00,5000,0.5125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,100,0.9171875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,200,0.740625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,500,0.49453125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,1000,0.38515625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,2000,0.35
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,5000,0.30546875
+all_lif_wait100,all_LIF (trained wait 100 ms),100,0.56015625
+all_lif_wait100,all_LIF (trained wait 100 ms),200,0.1046875
+all_lif_wait100,all_LIF (trained wait 100 ms),500,0.10625
+all_lif_wait100,all_LIF (trained wait 100 ms),1000,0.09609375
+all_lif_wait100,all_LIF (trained wait 100 ms),2000,0.1015625
+all_lif_wait100,all_LIF (trained wait 100 ms),5000,0.0859375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,100,0.95390625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,200,0.809375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,500,0.74375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,1000,0.71796875
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,2000,0.72109375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,5000,0.721875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,100,0.9578125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,200,0.69453125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,500,0.15546875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,1000,0.11015625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,2000,0.1140625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,5000,0.1234375

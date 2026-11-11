@@ -1,0 +1,35 @@
+{
+  "w0": -1.0,
+  "nb_epochs": 50,
+  "batch_size": 128,
+  "lr": 0.0005,
+  "max_batches_per_epoch": null,
+  "eval_max_batches": 5,
+  "print_every": 20,
+  "seed": 42,
+  "out_dir": "results/nmnist_w0_experiments",
+  "variant": "const_w0",
+  "run_name": "const_w0_-1.00",
+  "num_steps": 100,
+  "t_wait": 100,
+  "t_eval": 100,
+  "n_in": 2312,
+  "n_hidden": 100,
+  "n_out": 10,
+  "v_th": 1.0,
+  "eps": 0.5,
+  "a": 0.1,
+  "d": 1.0,
+  "c": 0.0,
+  "tau": 1.0,
+  "dt_eff": 0.025,
+  "resume_log": [
+    {
+      "from_epoch": 25,
+      "to_epoch": 50,
+      "lr_used": 0.0005,
+      "resumed_w0_learnable": false,
+      "timestamp": "2026-09-14 22:09:48"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+run_name,label,cv,repeat,seed,t_wait,n_digits,test_acc
+all_lif_wait100,all_LIF (trained wait 100 ms),0.0,0,0,100,1280,0.82890625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.0,1,1,100,1280,0.83515625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.0,2,2,100,1280,0.8296875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.0,3,3,100,1280,0.83828125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.0,4,4,100,1280,0.82734375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.1,0,0,100,1280,0.83828125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.1,1,1,100,1280,0.8375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.1,2,2,100,1280,0.83359375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.1,3,3,100,1280,0.846875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.1,4,4,100,1280,0.8296875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.2,0,0,100,1280,0.8265625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.2,1,1,100,1280,0.83515625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.2,2,2,100,1280,0.83828125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.2,3,3,100,1280,0.834375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.2,4,4,100,1280,0.83359375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.3,0,0,100,1280,0.82265625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.3,1,1,100,1280,0.82421875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.3,2,2,100,1280,0.82578125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.3,3,3,100,1280,0.83671875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.3,4,4,100,1280,0.840625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.4,0,0,100,1280,0.815625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.4,1,1,100,1280,0.8125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.4,2,2,100,1280,0.82265625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.4,3,3,100,1280,0.8359375
+all_lif_wait100,all_LIF (trained wait 100 ms),0.4,4,4,100,1280,0.83671875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.5,0,0,100,1280,0.79296875
+all_lif_wait100,all_LIF (trained wait 100 ms),0.5,1,1,100,1280,0.80078125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.5,2,2,100,1280,0.8125
+all_lif_wait100,all_LIF (trained wait 100 ms),0.5,3,3,100,1280,0.815625
+all_lif_wait100,all_LIF (trained wait 100 ms),0.5,4,4,100,1280,0.82734375
+const_w0_+0.50,const_w0=+0.50,0.0,0,0,100,1280,0.30859375
+const_w0_+0.50,const_w0=+0.50,0.0,1,1,100,1280,0.34296875
+const_w0_+0.50,const_w0=+0.50,0.0,2,2,100,1280,0.325
+const_w0_+0.50,const_w0=+0.50,0.0,3,3,100,1280,0.32890625
+const_w0_+0.50,const_w0=+0.50,0.0,4,4,100,1280,0.31484375
+const_w0_+0.50,const_w0=+0.50,0.1,0,0,100,1280,0.32734375
+const_w0_+0.50,const_w0=+0.50,0.1,1,1,100,1280,0.32578125
+const_w0_+0.50,const_w0=+0.50,0.1,2,2,100,1280,0.334375
+const_w0_+0.50,const_w0=+0.50,0.1,3,3,100,1280,0.334375
+const_w0_+0.50,const_w0=+0.50,0.1,4,4,100,1280,0.3296875
+const_w0_+0.50,const_w0=+0.50,0.2,0,0,100,1280,0.33984375
+const_w0_+0.50,const_w0=+0.50,0.2,1,1,100,1280,0.2984375
+const_w0_+0.50,const_w0=+0.50,0.2,2,2,100,1280,0.32890625
+const_w0_+0.50,const_w0=+0.50,0.2,3,3,100,1280,0.29296875
+const_w0_+0.50,const_w0=+0.50,0.2,4,4,100,1280,0.32734375
+const_w0_+0.50,const_w0=+0.50,0.3,0,0,100,1280,0.3390625
+const_w0_+0.50,const_w0=+0.50,0.3,1,1,100,1280,0.2859375
+const_w0_+0.50,const_w0=+0.50,0.3,2,2,100,1280,0.32578125
+const_w0_+0.50,const_w0=+0.50,0.3,3,3,100,1280,0.3359375
+const_w0_+0.50,const_w0=+0.50,0.3,4,4,100,1280,0.31328125
+const_w0_+0.50,const_w0=+0.50,0.4,0,0,100,1280,0.3328125
+const_w0_+0.50,const_w0=+0.50,0.4,1,1,100,1280,0.29765625
+const_w0_+0.50,const_w0=+0.50,0.4,2,2,100,1280,0.32734375
+const_w0_+0.50,const_w0=+0.50,0.4,3,3,100,1280,0.30859375
+const_w0_+0.50,const_w0=+0.50,0.4,4,4,100,1280,0.32421875
+const_w0_+0.50,const_w0=+0.50,0.5,0,0,100,1280,0.3125
+const_w0_+0.50,const_w0=+0.50,0.5,1,1,100,1280,0.31875
+const_w0_+0.50,const_w0=+0.50,0.5,2,2,100,1280,0.35625
+const_w0_+0.50,const_w0=+0.50,0.5,3,3,100,1280,0.3015625
+const_w0_+0.50,const_w0=+0.50,0.5,4,4,100,1280,0.321875
+const_w0_+1.00,const_w0=+1.00,0.0,0,0,100,1280,0.83046875
+const_w0_+1.00,const_w0=+1.00,0.0,1,1,100,1280,0.8296875
+const_w0_+1.00,const_w0=+1.00,0.0,2,2,100,1280,0.83828125
+const_w0_+1.00,const_w0=+1.00,0.0,3,3,100,1280,0.83203125
+const_w0_+1.00,const_w0=+1.00,0.0,4,4,100,1280,0.83515625
+const_w0_+1.00,const_w0=+1.00,0.1,0,0,100,1280,0.8328125
+const_w0_+1.00,const_w0=+1.00,0.1,1,1,100,1280,0.8390625
+const_w0_+1.00,const_w0=+1.00,0.1,2,2,100,1280,0.83203125
+const_w0_+1.00,const_w0=+1.00,0.1,3,3,100,1280,0.834375
+const_w0_+1.00,const_w0=+1.00,0.1,4,4,100,1280,0.825
+const_w0_+1.00,const_w0=+1.00,0.2,0,0,100,1280,0.8359375
+const_w0_+1.00,const_w0=+1.00,0.2,1,1,100,1280,0.8328125
+const_w0_+1.00,const_w0=+1.00,0.2,2,2,100,1280,0.8234375
+const_w0_+1.00,const_w0=+1.00,0.2,3,3,100,1280,0.83359375
+const_w0_+1.00,const_w0=+1.00,0.2,4,4,100,1280,0.84765625
+const_w0_+1.00,const_w0=+1.00,0.3,0,0,100,1280,0.825
+const_w0_+1.00,const_w0=+1.00,0.3,1,1,100,1280,0.83125
+const_w0_+1.00,const_w0=+1.00,0.3,2,2,100,1280,0.8375
+const_w0_+1.00,const_w0=+1.00,0.3,3,3,100,1280,0.83125
+const_w0_+1.00,const_w0=+1.00,0.3,4,4,100,1280,0.82265625
+const_w0_+1.00,const_w0=+1.00,0.4,0,0,100,1280,0.83125
+const_w0_+1.00,const_w0=+1.00,0.4,1,1,100,1280,0.8171875
+const_w0_+1.00,const_w0=+1.00,0.4,2,2,100,1280,0.8140625
+const_w0_+1.00,const_w0=+1.00,0.4,3,3,100,1280,0.81953125
+const_w0_+1.00,const_w0=+1.00,0.4,4,4,100,1280,0.81953125
+const_w0_+1.00,const_w0=+1.00,0.5,0,0,100,1280,0.8171875
+const_w0_+1.00,const_w0=+1.00,0.5,1,1,100,1280,0.80546875
+const_w0_+1.00,const_w0=+1.00,0.5,2,2,100,1280,0.80078125
+const_w0_+1.00,const_w0=+1.00,0.5,3,3,100,1280,0.81875
+const_w0_+1.00,const_w0=+1.00,0.5,4,4,100,1280,0.80703125
+const_w0_+2.00,const_w0=+2.00,0.0,0,0,100,1280,0.9234375
+const_w0_+2.00,const_w0=+2.00,0.0,1,1,100,1280,0.91953125
+const_w0_+2.00,const_w0=+2.00,0.0,2,2,100,1280,0.92265625
+const_w0_+2.00,const_w0=+2.00,0.0,3,3,100,1280,0.925
+const_w0_+2.00,const_w0=+2.00,0.0,4,4,100,1280,0.9171875
+const_w0_+2.00,const_w0=+2.00,0.1,0,0,100,1280,0.91953125
+const_w0_+2.00,const_w0=+2.00,0.1,1,1,100,1280,0.91328125
+const_w0_+2.00,const_w0=+2.00,0.1,2,2,100,1280,0.91796875
+const_w0_+2.00,const_w0=+2.00,0.1,3,3,100,1280,0.91640625
+const_w0_+2.00,const_w0=+2.00,0.1,4,4,100,1280,0.9140625
+const_w0_+2.00,const_w0=+2.00,0.2,0,0,100,1280,0.9078125
+const_w0_+2.00,const_w0=+2.00,0.2,1,1,100,1280,0.89453125
+const_w0_+2.00,const_w0=+2.00,0.2,2,2,100,1280,0.909375
+const_w0_+2.00,const_w0=+2.00,0.2,3,3,100,1280,0.909375
+const_w0_+2.00,const_w0=+2.00,0.2,4,4,100,1280,0.90390625
+const_w0_+2.00,const_w0=+2.00,0.3,0,0,100,1280,0.8953125
+const_w0_+2.00,const_w0=+2.00,0.3,1,1,100,1280,0.86875
+const_w0_+2.00,const_w0=+2.00,0.3,2,2,100,1280,0.8984375
+const_w0_+2.00,const_w0=+2.00,0.3,3,3,100,1280,0.88515625
+const_w0_+2.00,const_w0=+2.00,0.3,4,4,100,1280,0.8875
+const_w0_+2.00,const_w0=+2.00,0.4,0,0,100,1280,0.8671875
+const_w0_+2.00,const_w0=+2.00,0.4,1,1,100,1280,0.815625
+const_w0_+2.00,const_w0=+2.00,0.4,2,2,100,1280,0.8765625
+const_w0_+2.00,const_w0=+2.00,0.4,3,3,100,1280,0.8359375
+const_w0_+2.00,const_w0=+2.00,0.4,4,4,100,1280,0.8671875
+const_w0_+2.00,const_w0=+2.00,0.5,0,0,100,1280,0.81875
+const_w0_+2.00,const_w0=+2.00,0.5,1,1,100,1280,0.74765625
+const_w0_+2.00,const_w0=+2.00,0.5,2,2,100,1280,0.85078125
+const_w0_+2.00,const_w0=+2.00,0.5,3,3,100,1280,0.790625
+const_w0_+2.00,const_w0=+2.00,0.5,4,4,100,1280,0.83125
+const_w0_-0.50,const_w0=-0.50,0.0,0,0,100,1280,0.75234375
+const_w0_-0.50,const_w0=-0.50,0.0,1,1,100,1280,0.7359375
+const_w0_-0.50,const_w0=-0.50,0.0,2,2,100,1280,0.7453125
+const_w0_-0.50,const_w0=-0.50,0.0,3,3,100,1280,0.7484375
+const_w0_-0.50,const_w0=-0.50,0.0,4,4,100,1280,0.7625
+const_w0_-0.50,const_w0=-0.50,0.1,0,0,100,1280,0.7359375
+const_w0_-0.50,const_w0=-0.50,0.1,1,1,100,1280,0.73515625
+const_w0_-0.50,const_w0=-0.50,0.1,2,2,100,1280,0.7484375
+const_w0_-0.50,const_w0=-0.50,0.1,3,3,100,1280,0.74375
+const_w0_-0.50,const_w0=-0.50,0.1,4,4,100,1280,0.753125
+const_w0_-0.50,const_w0=-0.50,0.2,0,0,100,1280,0.74296875
+const_w0_-0.50,const_w0=-0.50,0.2,1,1,100,1280,0.74140625
+const_w0_-0.50,const_w0=-0.50,0.2,2,2,100,1280,0.75546875
+const_w0_-0.50,const_w0=-0.50,0.2,3,3,100,1280,0.734375
+const_w0_-0.50,const_w0=-0.50,0.2,4,4,100,1280,0.73671875
+const_w0_-0.50,const_w0=-0.50,0.3,0,0,100,1280,0.73203125
+const_w0_-0.50,const_w0=-0.50,0.3,1,1,100,1280,0.73828125
+const_w0_-0.50,const_w0=-0.50,0.3,2,2,100,1280,0.73828125
+const_w0_-0.50,const_w0=-0.50,0.3,3,3,100,1280,0.7375
+const_w0_-0.50,const_w0=-0.50,0.3,4,4,100,1280,0.74375
+const_w0_-0.50,const_w0=-0.50,0.4,0,0,100,1280,0.715625
+const_w0_-0.50,const_w0=-0.50,0.4,1,1,100,1280,0.72109375
+const_w0_-0.50,const_w0=-0.50,0.4,2,2,100,1280,0.728125
+const_w0_-0.50,const_w0=-0.50,0.4,3,3,100,1280,0.7140625
+const_w0_-0.50,const_w0=-0.50,0.4,4,4,100,1280,0.74453125
+const_w0_-0.50,const_w0=-0.50,0.5,0,0,100,1280,0.6953125
+const_w0_-0.50,const_w0=-0.50,0.5,1,1,100,1280,0.703125
+const_w0_-0.50,const_w0=-0.50,0.5,2,2,100,1280,0.71171875
+const_w0_-0.50,const_w0=-0.50,0.5,3,3,100,1280,0.72421875
+const_w0_-0.50,const_w0=-0.50,0.5,4,4,100,1280,0.7203125
+const_w0_-1.00,const_w0=-1.00,0.0,0,0,100,1280,0.915625
+const_w0_-1.00,const_w0=-1.00,0.0,1,1,100,1280,0.91640625
+const_w0_-1.00,const_w0=-1.00,0.0,2,2,100,1280,0.91875
+const_w0_-1.00,const_w0=-1.00,0.0,3,3,100,1280,0.9203125
+const_w0_-1.00,const_w0=-1.00,0.0,4,4,100,1280,0.91328125
+const_w0_-1.00,const_w0=-1.00,0.1,0,0,100,1280,0.9171875
+const_w0_-1.00,const_w0=-1.00,0.1,1,1,100,1280,0.9171875
+const_w0_-1.00,const_w0=-1.00,0.1,2,2,100,1280,0.91171875
+const_w0_-1.00,const_w0=-1.00,0.1,3,3,100,1280,0.9171875
+const_w0_-1.00,const_w0=-1.00,0.1,4,4,100,1280,0.91875
+const_w0_-1.00,const_w0=-1.00,0.2,0,0,100,1280,0.90859375
+const_w0_-1.00,const_w0=-1.00,0.2,1,1,100,1280,0.909375
+const_w0_-1.00,const_w0=-1.00,0.2,2,2,100,1280,0.90859375
+const_w0_-1.00,const_w0=-1.00,0.2,3,3,100,1280,0.9125
+const_w0_-1.00,const_w0=-1.00,0.2,4,4,100,1280,0.91015625
+const_w0_-1.00,const_w0=-1.00,0.3,0,0,100,1280,0.90625
+const_w0_-1.00,const_w0=-1.00,0.3,1,1,100,1280,0.89296875
+const_w0_-1.00,const_w0=-1.00,0.3,2,2,100,1280,0.9078125
+const_w0_-1.00,const_w0=-1.00,0.3,3,3,100,1280,0.90390625
+const_w0_-1.00,const_w0=-1.00,0.3,4,4,100,1280,0.896875
+const_w0_-1.00,const_w0=-1.00,0.4,0,0,100,1280,0.90234375
+const_w0_-1.00,const_w0=-1.00,0.4,1,1,100,1280,0.88515625
+const_w0_-1.00,const_w0=-1.00,0.4,2,2,100,1280,0.89453125
+const_w0_-1.00,const_w0=-1.00,0.4,3,3,100,1280,0.89296875
+const_w0_-1.00,const_w0=-1.00,0.4,4,4,100,1280,0.90234375
+const_w0_-1.00,const_w0=-1.00,0.5,0,0,100,1280,0.8921875
+const_w0_-1.00,const_w0=-1.00,0.5,1,1,100,1280,0.87421875
+const_w0_-1.00,const_w0=-1.00,0.5,2,2,100,1280,0.89140625
+const_w0_-1.00,const_w0=-1.00,0.5,3,3,100,1280,0.88046875
+const_w0_-1.00,const_w0=-1.00,0.5,4,4,100,1280,0.88046875
+const_w0_-2.00,const_w0=-2.00,0.0,0,0,100,1280,0.90859375
+const_w0_-2.00,const_w0=-2.00,0.0,1,1,100,1280,0.91015625
+const_w0_-2.00,const_w0=-2.00,0.0,2,2,100,1280,0.91015625
+const_w0_-2.00,const_w0=-2.00,0.0,3,3,100,1280,0.909375
+const_w0_-2.00,const_w0=-2.00,0.0,4,4,100,1280,0.90546875
+const_w0_-2.00,const_w0=-2.00,0.1,0,0,100,1280,0.9
+const_w0_-2.00,const_w0=-2.00,0.1,1,1,100,1280,0.90390625
+const_w0_-2.00,const_w0=-2.00,0.1,2,2,100,1280,0.90546875
+const_w0_-2.00,const_w0=-2.00,0.1,3,3,100,1280,0.90859375
+const_w0_-2.00,const_w0=-2.00,0.1,4,4,100,1280,0.90859375
+const_w0_-2.00,const_w0=-2.00,0.2,0,0,100,1280,0.9
+const_w0_-2.00,const_w0=-2.00,0.2,1,1,100,1280,0.903125
+const_w0_-2.00,const_w0=-2.00,0.2,2,2,100,1280,0.9
+const_w0_-2.00,const_w0=-2.00,0.2,3,3,100,1280,0.91171875
+const_w0_-2.00,const_w0=-2.00,0.2,4,4,100,1280,0.91015625
+const_w0_-2.00,const_w0=-2.00,0.3,0,0,100,1280,0.8890625
+const_w0_-2.00,const_w0=-2.00,0.3,1,1,100,1280,0.8890625
+const_w0_-2.00,const_w0=-2.00,0.3,2,2,100,1280,0.9015625
+const_w0_-2.00,const_w0=-2.00,0.3,3,3,100,1280,0.90390625
+const_w0_-2.00,const_w0=-2.00,0.3,4,4,100,1280,0.896875
+const_w0_-2.00,const_w0=-2.00,0.4,0,0,100,1280,0.88203125
+const_w0_-2.00,const_w0=-2.00,0.4,1,1,100,1280,0.8671875
+const_w0_-2.00,const_w0=-2.00,0.4,2,2,100,1280,0.89609375
+const_w0_-2.00,const_w0=-2.00,0.4,3,3,100,1280,0.88046875
+const_w0_-2.00,const_w0=-2.00,0.4,4,4,100,1280,0.8875
+const_w0_-2.00,const_w0=-2.00,0.5,0,0,100,1280,0.88515625
+const_w0_-2.00,const_w0=-2.00,0.5,1,1,100,1280,0.82890625
+const_w0_-2.00,const_w0=-2.00,0.5,2,2,100,1280,0.88125
+const_w0_-2.00,const_w0=-2.00,0.5,3,3,100,1280,0.8625
+const_w0_-2.00,const_w0=-2.00,0.5,4,4,100,1280,0.87734375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.0,0,0,100,1280,0.93984375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.0,1,1,100,1280,0.94296875
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.0,2,2,100,1280,0.9359375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.0,3,3,100,1280,0.9375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.0,4,4,100,1280,0.94453125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.1,0,0,100,1280,0.93984375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.1,1,1,100,1280,0.93828125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.1,2,2,100,1280,0.9328125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.1,3,3,100,1280,0.94375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.1,4,4,100,1280,0.93515625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.2,0,0,100,1280,0.9296875
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.2,1,1,100,1280,0.91640625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.2,2,2,100,1280,0.925
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.2,3,3,100,1280,0.93984375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.2,4,4,100,1280,0.9125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.3,0,0,100,1280,0.903125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.3,1,1,100,1280,0.88125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.3,2,2,100,1280,0.884375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.3,3,3,100,1280,0.92109375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.3,4,4,100,1280,0.89765625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.4,0,0,100,1280,0.8609375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.4,1,1,100,1280,0.828125
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.4,2,2,100,1280,0.8359375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.4,3,3,100,1280,0.89140625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.4,4,4,100,1280,0.8625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.5,0,0,100,1280,0.8015625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.5,1,1,100,1280,0.7609375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.5,2,2,100,1280,0.78359375
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.5,3,3,100,1280,0.8515625
+dist_two_tailed_mean-1.00_std0.50_learnable,dist_two_tailed_learnable,0.5,4,4,100,1280,0.8234375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.0,0,0,100,1280,0.94140625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.0,1,1,100,1280,0.93671875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.0,2,2,100,1280,0.9375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.0,3,3,100,1280,0.9390625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.0,4,4,100,1280,0.940625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.1,0,0,100,1280,0.93984375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.1,1,1,100,1280,0.93359375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.1,2,2,100,1280,0.93828125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.1,3,3,100,1280,0.9390625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.1,4,4,100,1280,0.9296875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.2,0,0,100,1280,0.921875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.2,1,1,100,1280,0.9125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.2,2,2,100,1280,0.9359375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.2,3,3,100,1280,0.9296875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.2,4,4,100,1280,0.8953125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.3,0,0,100,1280,0.88359375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.3,1,1,100,1280,0.87109375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.3,2,2,100,1280,0.9265625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.3,3,3,100,1280,0.9125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.3,4,4,100,1280,0.8484375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.4,0,0,100,1280,0.84375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.4,1,1,100,1280,0.8171875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.4,2,2,100,1280,0.90859375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.4,3,3,100,1280,0.89375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.4,4,4,100,1280,0.803125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.5,0,0,100,1280,0.7859375
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.5,1,1,100,1280,0.7390625
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.5,2,2,100,1280,0.8921875
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.5,3,3,100,1280,0.853125
+dist_uniform_mean-1.00_std0.50_fixed,dist_uniform_fixed,0.5,4,4,100,1280,0.759375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.0,0,0,100,1280,0.9078125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.0,1,1,100,1280,0.9109375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.0,2,2,100,1280,0.91171875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.0,3,3,100,1280,0.9046875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.0,4,4,100,1280,0.90859375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.1,0,0,100,1280,0.9078125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.1,1,1,100,1280,0.915625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.1,2,2,100,1280,0.90703125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.1,3,3,100,1280,0.90625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.1,4,4,100,1280,0.90625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.2,0,0,100,1280,0.9078125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.2,1,1,100,1280,0.90703125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.2,2,2,100,1280,0.89921875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.2,3,3,100,1280,0.90390625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.2,4,4,100,1280,0.9
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.3,0,0,100,1280,0.8984375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.3,1,1,100,1280,0.90859375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.3,2,2,100,1280,0.903125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.3,3,3,100,1280,0.8875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.3,4,4,100,1280,0.896875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.4,0,0,100,1280,0.8921875
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.4,1,1,100,1280,0.89609375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.4,2,2,100,1280,0.884375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.4,3,3,100,1280,0.8765625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.4,4,4,100,1280,0.8859375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.5,0,0,100,1280,0.8703125
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.5,1,1,100,1280,0.87890625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.5,2,2,100,1280,0.87734375
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.5,3,3,100,1280,0.8625
+lif_hidden_bistable_output_w0_-1.00,lif_hidden_w0=-1.00,0.5,4,4,100,1280,0.87265625
