@@ -93,13 +93,13 @@ The scripts skip networks and runs that already exist. Move a run out of `result
 - **Names.** In `navigation/` the target is called an *apple*: the task began as a snake game. The MNIST results folder is `mnist_ms_experiments` (ms: one network step is one millisecond).
 - **Hardware trace.** The silicon-neuron recording of Fig. 1B (`NICE_figures/fig1_c.csv`) was made by Loris Mendolia on the current-mode mixed-feedback neuron of Mendolia et al. (2026).
 
-## Citation
+## (potential future) Citation
 
 ```bibtex
 @inproceedings{mihaila2027bistability,
   title     = {Spike-efficient working memory with bistability through neuromodulation for neuromorphic hardware},
   author    = {Mihaila, Daria and Mendolia, Loris and Drion, Guillaume},
-  booktitle = {Neuro-Inspired Computational Elements Conference (NICE)},
+  journal = {},
   year      = {2027},
   note      = {Submitted}
 }
